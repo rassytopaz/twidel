@@ -29,12 +29,12 @@ https://qiita.com/A_Akira0803/items/fe277f4b112a8ff501ee
 ## 2.tweet.jsをCSVに変換
 アーカイブを展開して、tweet.jsを取り出す  
 上記（※）の記事を参考に、tweet.jsのまま使ってもいいんだけど、  
-Windowsだとtweet.jsの編集時に勝手に文字コードが書き換わったので触りたくない 
-なので、下記サービスをお借りして、CSVに変換してくる↓  
+Windowsだとtweet.jsの編集時に勝手に文字コードが書き換わったので触りたくない   
+なので、下記サービスをお借りして、CSVに変えてくる↓  
 https://17number.github.io/tweet-js-loader/
 
 ## 3.実行前の準備
-csvのある場所に、twidel.pyを配置  
+上記でDLしたtwitters.csvと同じディレクトリに、twidel.pyを配置  
 twidel.pyをエディターで開いて、apiの空白にAPIトークンを記述  
 これで準備完了。  
 

@@ -23,7 +23,8 @@ https://qiita.com/A_Akira0803/items/fe277f4b112a8ff501ee
 設定　→　アカウント　→　データのアーカイブから  
 ⓶ggってDLしてくる  
 ⓷Twitter Developpers登録して、新規App or 既にあるApp のAPIトークン確認する  
-必要なのは、api keyとaccess tokenと、それぞれのsecret。これをメモる（詳しくはネットで検索）
+必要なのは、api keyとaccess tokenと、それぞれのsecret。これをメモる（詳しくはネットで検索）  
+(Twitter Developpers未登録で、今回初だと手間取るかも）
 
 ## 2.tweet.jsをCSVに変換
 アーカイブを展開して、tweet.jsを取り出す  
